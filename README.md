@@ -30,3 +30,8 @@
             
            
 ## Differentiate between local and remote repositories: url, apis.
+__A URL is like an address. It is used to identify a resource uniquely with the help of its location in a network of computers. Just like your house has an address which is unique and no other house in the world can have that address(unless there is a massive coincidence ), URL is the same in the Internet, hence the name Universal Resource Locator. It is used to locate a particular resource on the internet.__
+
+__Now comes the complex part, an API, is anything which helps you to write your code. It is nothing but a set of tools, which are already developed and can be used, so that you dont have to write the same code again. You can reuse the previously written code. In simple terms, imagine you have to cut meat and have a small vegetable knife. You friend on the other hand has a butchers knife. You can cut meat using your own knife but that will take a lot of time, so you use your friend’s butchers knife instead. This way you save time by not doing unnecessary things. So, anything you use thats developed by a third party, to ease your development, is called an API.__
+
+__Now imagine you the same thing in case of a software. Using someone else’s code(legally) to ease your development is using an API. Check the answer below, I have explained how uber uses google map API.__
