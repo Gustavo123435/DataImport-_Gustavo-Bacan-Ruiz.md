@@ -13,3 +13,9 @@
               **ORDER BY BOOLEAN results in grouping rows in this order: FALSE, TRUE, NULL.**
               **The CREATE INDEX statement allows an index to be created on BOOLEAN columns.**
               **Terminal Monitor output for a BOOLEAN column shows the literals FALSE and TRUE as unquoted strings**
+    * The common data: *CSV (comma separated values) files are used to store tabular data in plain text format. Most often the fields in this data are separated by commas but                              other delimiters can be used such as |. TSV (tab separated values) files are similar but breaks are delimited by tabs. Both formats are widely supported                            and are often used to exchange data across multiple different computers and systems that support the format.*
+
+                       **Most modern spreadsheet packages can open CSV/TSV files for viewing. To maintain formatting data you will want to save in a proprietary format like XLS                            (Microsoft Office Excel), ODS (Open Office spreadsheets) or .numbers (Apple Mac), depending on the software you use. A free tool for viewing csv and other                          spreadsheet formats online can be found here.**
+    
+  
+
