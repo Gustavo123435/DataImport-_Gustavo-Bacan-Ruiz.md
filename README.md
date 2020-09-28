@@ -20,5 +20,7 @@
     * Json : *Json (javascript object notation) files are human-readable text files used to transport data in key/value pairs. It is a format widely used on the web and is often              the type of data returned from an API call.*
 
                          *Whilst human readable, json is generally used by software as a data source. A useful free tool to view json in interesting ways can be found here.*
-  
+    * XML: *Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-                                  readable. The design goals of XML emphasize simplicity, generality, and usability across the Internet. Although the design of XML focuses on documents,                          the language is widely used for the representation of arbitrary data structures such as those used in web services.*
+
+                         *XML is generally more useful to developers and software systems. You can import them as tables into Excel or view using this free online tool.*
 
