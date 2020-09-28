@@ -24,6 +24,9 @@
 
                          *XML is generally more useful to developers and software systems. You can import them as tables into Excel or view using this free online tool.*
 
-    * XLS: *A file with the XLS file extension is a Microsoft Excel 97-2003 Worksheet file. Later versions of Excel save spreadsheet files in the XLSX format by default. XLS files store data in tables of rows and columns with support for formatted text, images, charts, and more.*
+    * XLS: *A file with the XLS file extension is a Microsoft Excel 97-2003 Worksheet file. Later versions of Excel save spreadsheet files in the XLSX format by default. XLS                 files store data in tables of rows and columns with support for formatted text, images, charts, and more.*
 
             **Open in Microsoft Excel. From there you can create charts, pivot tables and other formatting or visualisation tools. A free tool for viewing csv and other                       spreadsheet formats online can be found here.**
+            
+           
+## Differentiate between local and remote repositories: url, apis.
