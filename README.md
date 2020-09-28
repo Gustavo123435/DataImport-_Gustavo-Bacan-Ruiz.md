@@ -34,4 +34,13 @@ __A URL is like an address. It is used to identify a resource uniquely with the 
 
 __Now comes the complex part, an API, is anything which helps you to write your code. It is nothing but a set of tools, which are already developed and can be used, so that you dont have to write the same code again. You can reuse the previously written code. In simple terms, imagine you have to cut meat and have a small vegetable knife. You friend on the other hand has a butchers knife. You can cut meat using your own knife but that will take a lot of time, so you use your friend’s butchers knife instead. This way you save time by not doing unnecessary things. So, anything you use thats developed by a third party, to ease your development, is called an API.__
 
-__Now imagine you the same thing in case of a software. Using someone else’s code(legally) to ease your development is using an API. Check the answer below, I have explained how uber uses google map API.__
+## Secure File Transfer Protocol (SFTP).
+Secure file transfer is data sharing via a secure, reliable delivery method. It is used to safeguard proprietary and personal data in transit and at rest. Most secure file sharing methods use standard protocols, including:
+
+* Secure File Transfer Protocol (SFTP): SFTP transfers files with the Secure Shell (SSH) connection – SFTP is an encrypted network protocol that can enable a remote login to operate over a network that lacks security. SFTP offers encryption of commands and data. It also prevents passwords and sensitive information from open transmission over the network.
+
+* File Transfer Protocol – Secure (FTPS): FTPS offers encryption and uses an application layer wrapper, known as Secure Sockets Layer (SSL) to enable secure and private communications across a network.
+
+* Hypertext Transfer Protocol – Secure (HTTPS): HTTPS secures websites when users are providing sensitive information like credit card numbers or other personal information. The protocol offers multiple layers of data protection including data integrity, encryption, and authentication.
+
+* Applicability Statement 2 (AS2): AS2 is a standard used to transfer Electronic Data Interchange (EDI) messages and other data in real time. The AS2 protocol facilitates the ability to exchange AS2 EDI messages and other types of data over the HTTP or HTTPS protocol.
