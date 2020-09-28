@@ -18,6 +18,6 @@
                       **Most modern spreadsheet packages can open CSV/TSV files for viewing. To maintain formatting data you will want to save in a proprietary format like XLS                            (Microsoft Office Excel), ODS (Open Office spreadsheets) or .numbers (Apple Mac), depending on the software you use. A free tool for viewing csv and                              other spreadsheet formats online can be found here.**
     * Json : *Json (javascript object notation) files are human-readable text files used to transport data in key/value pairs. It is a format widely used on the web and is often              the type of data returned from an API call.*
 
-             *Whilst human readable, json is generally used by software as a data source. A useful free tool to view json in interesting ways can be found here.*
+                         *Whilst human readable, json is generally used by software as a data source. A useful free tool to view json in interesting ways can be found here.*
   
 
